@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vcongress", "vcongress\vcongress.csproj", "{C5783BD5-45B6-4C84-9CDC-A476FA82228D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5783BD5-45B6-4C84-9CDC-A476FA82228D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5783BD5-45B6-4C84-9CDC-A476FA82228D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5783BD5-45B6-4C84-9CDC-A476FA82228D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5783BD5-45B6-4C84-9CDC-A476FA82228D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D94B296-E680-42EB-BD89-8997160CA045}
+	EndGlobalSection
+EndGlobal
